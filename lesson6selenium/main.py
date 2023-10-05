@@ -26,7 +26,7 @@ def get_data(url):
     # finally:
     #     driver.close()
     #     driver.quit()
-    with open("lesson6selenium/index1.html", encoding="utf-8") as file:
+    with open("lesson6selenium/index1.html", encoding="utf-8") as file: #uncomment from here
         src = file.read()
 
     soup = BeautifulSoup(src, "lxml")
