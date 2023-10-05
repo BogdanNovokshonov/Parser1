@@ -3,7 +3,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
-import requests
+
 
 def get_data(url):
     # s = Service(r"C:\Users\AI\Desktop\parser\lesson6selenium\geckodriver.exe")
