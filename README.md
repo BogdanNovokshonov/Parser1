@@ -5,7 +5,7 @@
 Для запуска необходимы библиотеки: lxml, selenium, BeautifulSoup, geckodriver(https://github.com/mozilla/geckodriver/releases/tag/v0.33.0)
 , а также необходимо прокинуть путь до этого драйвера.<br>
 
-Идея пришла мне при просмотре ролика https://www.youtube.com/@PythonToday , как практика написания парсера. В этом проекте я разобрался как устроен selenium, lxml, BeautifulSoup и улучшил знания в этих фреймворках. <br>
+Идея пришла мне при просмотре ролика https://www.youtube.com/@PythonToday , как практика написания парсера. В этом проекте я разобрался как устроен selenium, lxml, BeautifulSoup и улучшил знания в этих библиотеках. <br>
 ![image](https://github.com/BogdanNovokshonov/Parser1/assets/120629135/4ee243a3-20d0-486c-8623-6b56b099a3c1)
 ![image](https://github.com/BogdanNovokshonov/Parser1/assets/120629135/7e53826c-9753-4f54-8ee0-385d1a75ddaa)
 
